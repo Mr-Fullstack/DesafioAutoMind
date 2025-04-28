@@ -1,5 +1,5 @@
 ﻿
-using System.Drawing;
+using System;
 
 namespace automind.selecao.estagio {
   class Program

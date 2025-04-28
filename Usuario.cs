@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Reflection.Metadata.Ecma335;
-
-
 namespace automind.selecao.estagio
 {
   public class Usuario
@@ -16,7 +13,4 @@ namespace automind.selecao.estagio
       return "Nome: " + Nome + "\nEmail: " + Email + "\nIdade: " + Idade;
     }
   }
-
-
-
 }
